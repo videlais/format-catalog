@@ -1,0 +1,60 @@
+{
+    "formats": [
+        {
+			"name": "DotGraph",
+			"author": "M. C. DeMarco",
+			"repo": "https://github.com/mcdemarco/dotgraph",
+			"proofing": true,
+			"description": "displays a graph of your story, with several options for color-coding, clustering, and labeling nodes; it also detects unreachable nodes and terminal leaves",
+			"basedOn": ""
+		},
+        {
+			"name": "DotScap",
+			"author": "M. C. DeMarco",
+			"repo": "https://github.com/mcdemarco/dotscap",
+			"proofing": true,
+			"description": "a DotGraph-like format that converts your story into a Scapple mind-map graph and includes a subset of DotGraph's rendering options",
+			"basedOn": "DotGraph"
+		},
+        {
+			"name": "Journal",
+			"author": "Leon Arnott",
+			"repo": "https://www.glorioustrainwrecks.com/node/4997",
+			"proofing": false,
+			"description": "a horizontal variant of the Twine 1 stretchtext story format Jonah",
+			"basedOn": "Jonah"
+		},
+        {
+			"name": "Paloma",
+			"author": "M. C. DeMarco",
+			"repo": "https://github.com/mcdemarco/paloma/",
+			"proofing": false,
+			"description": "a Jonah-style stretchtext story format for Twine 1 and 2",
+			"basedOn": "Snowman"
+		},
+        {
+			"name": "PrePub",
+			"author": "M. C. DeMarco",
+			"repo": "https://github.com/mcdemarco/prepub/src/default/",
+			"proofing": true,
+			"description": "converts a Twine 1 or 2 story into a MultiMarkdown format used for generating eBooks",
+			"basedOn": "enscree"
+		},
+        {
+			"name": "Sisal",
+			"author": "Henry Soule",
+			"repo": "https://github.com/HarmlessTrouble/codename-Sisal/",
+			"proofing": false,
+			"description": "a rumored story format",
+			"basedOn": ""
+		},
+        {
+			"name": "Wasteland",
+			"author": "Jessica Paoli",
+			"repo": "https://bitbucket.org/skullface/wasteland/",
+			"proofing": false,
+			"description": "a semantic Twine [1] Story Format focused on readability",
+			"basedOn": ""
+		}
+    ]
+}
