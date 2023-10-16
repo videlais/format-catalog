@@ -3,10 +3,15 @@
         {
 			"name": "DotGraph",
 			"author": "M. C. DeMarco",
+			"version": "2.2.0",
 			"repo": "https://github.com/mcdemarco/dotgraph",
 			"proofing": true,
 			"description": "displays a graph of your story, with several options for color-coding, clustering, and labeling nodes; it also detects unreachable nodes and terminal leaves",
-			"basedOn": ""
+			"basedOn": "",
+			"files": [
+				"header.html",
+				"LICENSE"
+			]
 		},
         {
 			"name": "DotScap",
@@ -19,10 +24,15 @@
         {
 			"name": "Journal",
 			"author": "Leon Arnott",
+			"version": "1.0.0",
 			"repo": "https://www.glorioustrainwrecks.com/node/4997",
 			"proofing": false,
 			"description": "a horizontal variant of the Twine 1 stretchtext story format Jonah",
-			"basedOn": "Jonah"
+			"basedOn": "Jonah",
+			"files": [
+				"header.html",
+				"LICENSE"
+			]
 		},
         {
 			"name": "Paloma",

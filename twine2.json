@@ -85,14 +85,16 @@
 			"author": "Michael McCollum",
 			"repo": "http://www.maximumverbosity.net/twine/Illume/",
 			"proofing": true,
-			"description": "an \"experiment in producing a proofing format for Twine 2 that offers more functionality than a simple text dump\""	
+			"description": "an \"experiment in producing a proofing format for Twine 2 that offers more functionality than a simple text dump\"",
+			"basedOn": ""
 		},
 		{
 			"name": "Jinx",
 			"author": "Derek Timm-Brock",
 			"repo": "https://github.com/derektb/jinx",
 			"proofing": false,
-			"description": "A Twine 2 story format for building and running interactive comics in Twine"
+			"description": "A Twine 2 story format for building and running interactive comics in Twine",
+			"basedOn": ""
 		},
 		{
 			"name": "Mirapol",
